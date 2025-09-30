@@ -35,7 +35,7 @@
           min="0"
           max="100"
           class="input-box w-[200px] px-5 py-3"
-          placeholder="Giảm giá tối thiểu (%)"
+          placeholder="Giảm giá tối thiểu (đ)"
         />
 
         <input
